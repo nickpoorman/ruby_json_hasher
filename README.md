@@ -1,5 +1,7 @@
 # JSONHasher
 
+[![Build Status](https://travis-ci.org/nickpoorman/ruby_json_hasher.svg?branch=master)](https://travis-ci.org/nickpoorman/ruby_json_hasher)
+
 Create a stable SHA-2 hash from a JSON object.
 
 JSON objects do not require the keys to be in any kind of order which can make creating a hash unstable. This gem solves that problem.
